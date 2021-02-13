@@ -1,3 +1,3 @@
-# forkify Project
+# foodery Project
 
 Recipe application with custom recipe uploads.
